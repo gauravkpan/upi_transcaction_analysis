@@ -59,7 +59,8 @@ The project demonstrates end-to-end data analytics — from data validation and 
 - **Power BI** – Dashboard visualization and executive reporting  
 
 ---
-# 
+# Repository Structure
+```plaintext
 upi-transaction-analysis-capstone/
 │
 ├── README.md                # Project overview and setup guide
